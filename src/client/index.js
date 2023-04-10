@@ -1,1 +1,1 @@
-alert("I EXIST")
+alert("This is a simple alert message!");
